@@ -18,6 +18,9 @@ I am Sahril Putra, a Designer and front-end web Developer. I open to collaborati
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=Tailwind-CSS&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
+![PostCSS](https://img.shields.io/badge/-PostCSS-DD3A0A?style=flat-square&logo=PostCSS&logoColor=white)
+![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -26,4 +29,5 @@ I am Sahril Putra, a Designer and front-end web Developer. I open to collaborati
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sahrilputra&count_private=true&show_icons=true&include_all_commits=true&theme=codeSTACKr)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahrilputra&hide=TeX&layout=compact&theme=codeSTACKr)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahrilputra&repo=Got-My-Cocktail&theme=codeSTACKr)](https://github.com/sahrilputra/Got-My-Cocktail)
+## 💥 Recently Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahrilputra&repo=notes-&theme=codeSTACKr)](https://github.com/sahrilputra/notes-)
