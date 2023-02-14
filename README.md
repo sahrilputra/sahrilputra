@@ -1,6 +1,6 @@
 ## Hello There! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Sahril Putra, a Designer and front-end web Developer. I open to collaborating on projects or you can here me. Feel free to connect with me here:
+I am Sahril Putra, a Designer and front-end web Developer. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-sahrilputra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahril-putra10/)](https://www.linkedin.com/in/sahril-putra10/)
 [![Instagram Badge](https://img.shields.io/badge/-sahrilputra10-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sahrilputra10/)](https://www.instagram.com/sahrilputra10/)
