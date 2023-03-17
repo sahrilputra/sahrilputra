@@ -1,6 +1,6 @@
 ## Hello There! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Sahril Putra, a full stack developer and i hate PHP, see me in other platform :
+I am Sahril Putra, a MERN Developer, lets see me in others platform :
 
 [![Linkedin Badge](https://img.shields.io/badge/-sahrilputra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahril-putra10/)](https://www.linkedin.com/in/sahril-putra10/)
 [![Instagram Badge](https://img.shields.io/badge/-sahrilputra10-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sahrilputra10/)](https://www.instagram.com/sahrilputra10/)
