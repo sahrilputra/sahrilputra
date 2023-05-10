@@ -6,6 +6,8 @@ I am Sahril Putra, a MERN Developer, lets see me in others platform :
 [![Instagram Badge](https://img.shields.io/badge/-sahrilputra10-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sahrilputra10/)](https://www.instagram.com/sahrilputra10/)
 [![Gmail Badge](https://img.shields.io/badge/-sahril.devme@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahril.devme@gmail.com)](mailto:sahril.devme@gmail.com)
 
+## Recently Learing
+Web3 Platform
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
