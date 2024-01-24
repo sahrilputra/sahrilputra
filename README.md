@@ -28,8 +28,8 @@ Web3 Platform
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=sahrilputra&count_private=true&show_icons=true&include_all_commits=true&theme=codeSTACKr)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahrilputra&hide=TeX&layout=compact&theme=codeSTACKr)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=sahrilputra&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahrilputra&hide=TeX&layout=compact&theme=dark)
 
 ## 💥 Recently Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahrilputra&repo=notes-&theme=codeSTACKr)](https://github.com/sahrilputra/notes-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahrilputra&repo=notes-&theme=dark)](https://github.com/sahrilputra/notes-)
